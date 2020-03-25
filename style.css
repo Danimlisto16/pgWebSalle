@@ -9,5 +9,27 @@
 }
 
 .background{
-	background-color:#32C5DF;
+  background-image: url(Background.jpg);
+  background-position: center;
+  width: 100%;
+  height: auto;
 }
+.backgrounddiv{
+	background-color:#FFFFFF;
+}
+.footer {
+  display: block;
+}
+
+.p{
+	text-align: center;
+}
+.ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+
